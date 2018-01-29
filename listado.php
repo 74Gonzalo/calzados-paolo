@@ -95,7 +95,7 @@ require_once 'db.php';
   </td>
 
 
-
+</table>
 
 
 
